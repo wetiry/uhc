@@ -47,4 +47,4 @@ Randomized Crafts | Este escenario aleatoriza los resultados de todos las crafte
 Monsters Inc. | En este escenario, todas las puertas están vinculadas como portales..
 Achievement Hunter | Los jugadores comienzan con 5 corazones. Por cada logro, los jugadores obtienen medio corazón de salud.
 Nine Slots | Solo puede usar su barra de acceso rápido (hotbar) para guardar elementos.
-Nether Start | Comienza el juego con todos los jugadores en el nether.enter link description here
+Nether Start | Comienza el juego con todos los jugadores en el nether.
