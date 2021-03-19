@@ -1,5 +1,4 @@
-# uhc scenarios
-# ESCENARIOS
+# uhc ESCENARIOS
 Nombre | Descripción
 :---: | ---
 CutClean |  No se requieren hornos. Los minerales y las gotas de animales se funden automáticamente. Las tarifas de GaApple son del 5%, las de pedernal son del 90% No se necesita lapislázuli para encantar.
